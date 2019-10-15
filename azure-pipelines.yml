@@ -1,6 +1,6 @@
 variables:
-  serviceConnectionToAzure: SBAITSummit
-  appName: summit-app-0
+  serviceConnectionToAzure: AzureDevOps
+  appName: nodejslinuxsba-qa
 
 trigger:
 - master
