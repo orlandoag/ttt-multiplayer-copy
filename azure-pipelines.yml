@@ -1,6 +1,6 @@
 variables:
-  serviceConnectionToAzure: AzureDevOps
-  appName: nodejslinuxsba
+  serviceConnectionToAzure: DevWorkShop
+  appName: webworkshop05
 
 trigger:
 - master
